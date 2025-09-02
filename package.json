@@ -1,0 +1,24 @@
+{
+    "name": "@cdigital/react-native-zsdk",
+    "version": "0.1.0",
+    "main": "lib/commonjs/index.js",
+    "react-native": "lib/module/index.js",
+    "types": "lib/typescript/index.d.ts",
+    "source": "src/index.ts",
+    "files": ["lib", "ios", "android", "app.plugin.ts", "react-native.config.js"],
+    "scripts": {
+        "build": "bob build",
+        "clean": "rimraf lib"
+    },
+    "peerDependencies": {
+        "react": ">=18",
+        "react-native": ">=0.74",
+        "expo": ">=51 || >=52"
+    },
+    "devDependencies": {
+        "react-native-builder-bob": "^0.23.2",
+        "typescript": "^5.4.0",
+        "@types/react-native": "^0.73.0",
+        "rimraf": "^5.0.0"
+    }
+}

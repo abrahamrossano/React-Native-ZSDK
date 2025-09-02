@@ -1,0 +1,6 @@
+/Users/abrahamrossano/Desktop/CDigital/Apps/RN-APP-Investigaciones/RN-APP-Impresora/ZSDKRCTDevDemo/android/app/.cxx/Debug/345706gw/x86/CMakeFiles/appmodules.dir
+/Users/abrahamrossano/Desktop/CDigital/Apps/RN-APP-Investigaciones/RN-APP-Impresora/ZSDKRCTDevDemo/android/app/.cxx/Debug/345706gw/x86/CMakeFiles/edit_cache.dir
+/Users/abrahamrossano/Desktop/CDigital/Apps/RN-APP-Investigaciones/RN-APP-Impresora/ZSDKRCTDevDemo/android/app/.cxx/Debug/345706gw/x86/CMakeFiles/rebuild_cache.dir
+/Users/abrahamrossano/Desktop/CDigital/Apps/RN-APP-Investigaciones/RN-APP-Impresora/ZSDKRCTDevDemo/android/app/.cxx/Debug/345706gw/x86/safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir
+/Users/abrahamrossano/Desktop/CDigital/Apps/RN-APP-Investigaciones/RN-APP-Impresora/ZSDKRCTDevDemo/android/app/.cxx/Debug/345706gw/x86/safeareacontext_autolinked_build/CMakeFiles/edit_cache.dir
+/Users/abrahamrossano/Desktop/CDigital/Apps/RN-APP-Investigaciones/RN-APP-Impresora/ZSDKRCTDevDemo/android/app/.cxx/Debug/345706gw/x86/safeareacontext_autolinked_build/CMakeFiles/rebuild_cache.dir

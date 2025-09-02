@@ -1,0 +1,1 @@
+/Users/abrahamrossano/Desktop/CDigital/Apps/RN-APP-Investigaciones/RN-APP-Impresora/ZSDKRCTDevDemo/android/app/build/intermediates/cxx/Debug/345706gw/obj/arm64-v8a

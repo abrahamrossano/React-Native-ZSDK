@@ -1,0 +1,2 @@
+/Users/abrahamrossano/Desktop/CDigital/Apps/RN-APP-Investigaciones/RN-APP-Impresora/ZSDKRCTDevDemo/node_modules/react-native-safe-area-context/android/src/main/jni/CMakeLists.txt
+/Users/abrahamrossano/Desktop/CDigital/Apps/RN-APP-Investigaciones/RN-APP-Impresora/ZSDKRCTDevDemo/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt
