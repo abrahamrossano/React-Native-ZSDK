@@ -2,11 +2,13 @@
 //  RCTZSDKModule_m.m
 //  ZSDKRCTDevDemo
 
-#import "RCTZSDKModule_m.h"
 #import <React/RCTBridgeModule.h>
 #import <ExternalAccessory/ExternalAccessory.h>
 #import "MfiBtPrinterConnection.h"
 #import "ZebraPrinter.h"
+
+@interface RCTZSDKModule_m : NSObject <RCTBridgeModule>
+@end
 
 @implementation RCTZSDKModule_m
 

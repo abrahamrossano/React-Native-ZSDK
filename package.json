@@ -1,11 +1,11 @@
 {
     "name": "@cdigital/react-native-zsdk",
     "version": "0.1.0",
-    "main": "lib/commonjs/index.js",
-    "react-native": "lib/module/index.js",
-    "types": "lib/typescript/index.d.ts",
+    "main": "src/index.js",
+    "react-native": "src/index.js",
+    "types": "src/index.ts",
     "source": "src/index.ts",
-    "files": ["lib", "ios", "android", "app.plugin.ts", "react-native.config.js"],
+    "files": ["src", "ios", "android", "app.plugin.ts", "ZSDKRCT.podspec", "react-native.config.js"],
     "scripts": {
         "build": "bob build",
         "clean": "rimraf lib"
